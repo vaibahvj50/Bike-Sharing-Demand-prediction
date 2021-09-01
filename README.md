@@ -22,5 +22,5 @@ You can find the dataset necessary for the analysis on following link : https://
 
 • Feature Importance value for Random Forest, Gradient Boost, and XGBoost are different.
 
-• We can deploy this model.
+
 
